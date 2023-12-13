@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+💡Statistics💡
+---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donghoonyeom&layout=compact&theme=dark)<br/><br/> 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=donghoonyeom&show_icons=true&theme=dark)&nbsp;
+
 <!--
 **donghoonyeom/donghoonyeom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
